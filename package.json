@@ -1,0 +1,15 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "A Simple Node Web Server for creating simple static/semi-static websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "TJ Monserrat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
